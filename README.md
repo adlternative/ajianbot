@@ -6,3 +6,4 @@ It have four functions now:
 2. hackernews
 3. scheduler
 4. translate
+5. tldr
